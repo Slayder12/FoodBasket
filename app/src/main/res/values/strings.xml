@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoodBasket</string>
+    <string name="title_text">Продовольственная корзина</string>
+    <string name="begin_text">Начать покупки</string>
+    <string name="check_text">Cумма чека: 0</string>
+    <string name="name_text">Наименование:</string>
+    <string name="name_text_tv">name</string>
+    <string name="price_text">Цена:</string>
+    <string name="price_text_tv">price</string>
+    <string name="rub_text">руб.</string>
+    <string name="check_hint_text">Чек</string>
+</resources>
